@@ -1,0 +1,612 @@
+Brno
+Ostrava
+Plzen
+Xerox
+Liberec
+Olomouc
+Ceske Budejovice
+Hradec Kralove
+Pardubice
+Usti nad Labem
+Zlin
+Havirov
+Kladno
+Most
+Opava
+Frydek-Mistek
+Jihlava
+Teplice
+Karvina
+Karlovy Vary
+Decin
+Chomutov
+Jablonec nad Nisou
+Mlada Boleslav
+Prostejov
+Prerov
+Ceska Lipa
+Trebic
+Trinec
+Tabor
+Znojmo
+Kolin
+Pribram
+Cheb
+Pisek
+Trutnov
+Kromeriz
+Orlova
+Vsetin
+Sumperk
+Uherske Hradiste
+Breclav
+Hodonin
+Cesky Tesin
+Chrudim
+Havlickuv Brod
+Litomerice
+Novy Jicin
+Krnov
+Litvinov
+Valasske Mezirici
+Strakonice
+Klatovy
+Sokolov
+Koprivnice
+Kutna Hora
+Jindrichuv Hradec
+Beroun
+Bohumin
+Zdar nad Sazavou
+Vyskov
+Melnik
+Blansko
+Nachod
+Brandys nad Labem-Stara Boleslav
+Jirkov
+Zatec
+Kralupy nad Vltavou
+Kadan
+Louny
+Hranice
+Otrokovice
+Benesov
+Ricany
+Slany
+Pelhrimov
+Uhersky Brod
+Neratovice
+Jicin
+Roznov pod Radhostem
+Svitavy
+Ostrov
+Rakovnik
+Nymburk
+Bruntal
+Dvur Kralove nad Labem
+Ceska Trebova
+Podebrady
+Varnsdorf
+Bilina
+Turnov
+Klasterec nad Ohri
+Rokycany
+Usti nad Orlici
+Tachov
+Marianske Lazne
+Milovice
+Hlucin
+Zabreh
+Sternberk
+Cesky Krumlov
+As
+Roudnice nad Labem
+Chodov
+Krupka
+Jaromer
+Celakovice
+Vysoke Myto
+Vrchlabi
+Boskovice
+Holesov
+Velke Mezirici
+Novy Bor
+Vlasim
+Humpolec
+Kurim
+Prachatice
+Rychnov nad Kneznou
+Unicov
+Domazlice
+Rumburk
+Kyjov
+Susice
+Frenstat pod Radhostem
+Jesenik
+Veseli nad Moravou
+Caslav
+Litomysl
+Kraluv Dvur
+Jesenice
+Lysa nad Labem
+Prelouc
+Nove Mesto na Morave
+Frydlant nad Ostravici
+Ivancice
+Litovel
+Lanskroun
+Moravska Trebova
+Hlinsko
+Mohelnice
+Nove Mesto nad Metuji
+Studenka
+Tisnov
+Hostivice
+Chotebor
+Nova Paka
+Roztoky
+Mnichovo Hradiste
+Policka
+Dobris
+Lovosice
+Chocen
+Duchcov
+Steti
+Horice
+Pribor
+Cerveny Kostelec
+Trebon
+Semily
+Milevsko
+Bystrice pod Hostynem
+Lipnik nad Becvou
+Stribro
+Dubi
+Rymarov
+Bystrice nad Pernstejnem
+Hradek nad Nisou
+Tyn nad Vltavou
+Slapanice
+Benatky nad Jizerou
+Nejdek
+Rychvald
+Mikulov
+Horovice
+Cernosice
+Kaplice
+Vodnany
+Bilovec
+Frydlant
+Odry
+Uvaly
+Petrvald
+Cesky Brod
+Vimperk
+Vratimov
+Broumov
+Novy Bydzov
+Dacice
+Napajedla
+Slavkov u Brna
+Sezimovo Usti
+Moravske Budejovice
+Letovice
+Sobeslav
+Nyrany
+Sedlcany
+Holice
+Bucovice
+Prestice
+Rosice
+Stare Mesto
+Kravare
+Kraslice
+Blatna
+Dobruska
+Senov
+Hulin
+Letohrad
+Veseli nad Luznici
+Svetla nad Sazavou
+Podborany
+Dobrany
+Mimon
+Odolena Voda
+Chrastava
+Dubnany
+Mnisek pod Brdy
+Hustopece
+Slavicin
+Tyniste nad Orlici
+Kostelec nad Orlici
+Hronov
+Zelezny Brod
+Tanvald
+Zamberk
+Rousinov
+Trebechovice pod Orebem
+Kojetin
+Sluknov
+Tynec nad Sazavou
+Trest
+Frantiskovy Lazne
+Nove Straseci
+Moravsky Krumlov
+Vitkov
+Pohorelice
+Kunovice
+Chlumec nad Cidlinou
+Lomnice nad Popelkou
+Modrice
+Fulnek
+Zubri
+Hluboka nad Vltavou
+Plana
+Upice
+Hradec nad Moravici
+Holysov
+Brumov-Bylnice
+Jilemnice
+Stary Plzenec
+Straznice
+Horni Slavkov
+Velka Bites
+Stochov
+Jablunkov
+Trhove Sviny
+Rudna
+Telc
+Polna
+Kdyne
+Bakov nad Jizerou
+Bor
+Doksy
+Jilove u Prahy
+Horsovsky Tyn
+Luhacovice
+Ceska Kamenice
+Horazdovice
+Skutec
+Kosmonosy
+Ceska Skalice
+Jilove
+Nyrsko
+Tremosna
+Unhost
+Hermanuv Mestec
+Pecky
+Bechyne
+Vizovice
+Valasske Klobouky
+Ledec nad Sazavou
+Bela pod Bezdezem
+Namest nad Oslavou
+Oslavany
+Protivin
+Vrbno pod Pradedem
+Zruc nad Sazavou
+Pacov
+Habartov
+Chropyne
+Postoloprty
+Chyne
+Votice
+Mezibori
+Lisov
+Vamberk
+Osek
+Bystrice
+Cvikov
+Kynsperk nad Ohri
+Bzenec
+Plana nad Luznici
+Vracov
+Adamov
+Klimkovice
+Horni Briza
+Bojkovice
+Rozmital pod Tremsinem
+Hluk
+Uhersky Ostroh
+Hostinne
+Sezemice
+Kostelec nad Labem
+Chlumec
+Nova Role
+Slatinany
+Blovice
+Borovany
+Zdice
+Brusperk
+Kraliky
+Rajhrad
+Jaromerice nad Rokytnou
+Police nad Metuji
+Kostelec nad Cernymi lesy
+Mnichovice
+Jemnice
+Pribyslav
+Dolni Benesov
+Bustehrad
+Paskov
+Velesin
+Kamenicky Senov
+Velke Bilovice
+Brtnice
+Smrzovka
+Sazava
+Vetrni
+Klecany
+Frystak
+Jablonne v Podjestedi
+Dobrichovice
+Straz pod Ralskem
+Volary
+Nove Mesto pod Smrkem
+Revnice
+Lazne Belohrad
+Rajec-Jestrebi
+Kamenice nad Lipou
+Zidlochovice
+Lom
+Zbysov
+Zlate Hory
+Dobrovice
+Lanzhot
+Velka Bystrice
+Stod
+Suchdol nad Luznici
+Benesov nad Ploucnici
+Jirikov
+Ceske Velenice
+Nepomuk
+Touzim
+Valtice
+Breznice
+Stepanov
+Libcice nad Vltavou
+Veverska Bityska
+Velke Opatovice
+Stramberk
+Lazne Bohdanec
+Zliv
+Kralovice
+Hrusovany nad Jevisovkou
+Mesto Albrechtice
+Krasna Lipa
+Libochovice
+Libusin
+Stankov
+Ujezd u Brna
+Trmice
+Kostany
+Tremosnice
+Sadska
+Nova Bystrice
+Chrast
+Uhlirske Janovice
+Velke Pavlovice
+Opocno
+Zirovnice
+Kaznejov
+Miroslav
+Desna
+Zacler
+Zdirec nad Doubravou
+Smirice
+Loket
+Lostice
+Jablonne nad Orlici
+Bridlicna
+Plasy
+Hodkovice nad Mohelkou
+Velvary
+Ivanovice na Hane
+Spalene Porici
+Podivin
+Zakupy
+Volyne
+Hanusovice
+Slusovice
+Sedlec-Prcice
+Dolni Bousov
+Morkovice-Slizany
+Rtyne v Podkrkonosi
+Tepla
+Chvaletice
+Ustek
+Terezin
+Cesky Dub
+Mestec Kralove
+Moravsky Beroun
+Kostelec na Hane
+Jevicko
+Kunstat
+Rychnov u Jablonce nad Nisou
+Rotava
+Raspenava
+Budisov nad Budisovkou
+Vejprty
+Hejnice
+Hradek
+Neveklov
+Korycany
+Golcuv Jenikov
+Velke Hamry
+Kelc
+Mlada Vozice
+Konice
+Brezova
+Luze
+Javornik
+Rokytnice nad Jizerou
+Nove Sedlo
+Vyssi Brod
+Dolni Kounice
+Rudolfov
+Nove Hrady
+Chabarovice
+Chynov
+Zbiroh
+Zdanice
+Netolice
+Klobouky u Brna
+Pocatky
+Tovacov
+Bohusovice nad Ohri
+Dasice
+Sobotka
+Karolinka
+Janovice nad Uhlavou
+Jachymov
+Nechanice
+Kryry
+Mezimesti
+Solnice
+Mesto Touskov
+Plumlov
+Veltrusy
+Ralsko
+Hrochuv Tynec
+Kardasova Recice
+Horni Benesov
+Nova Vcelnice
+Slavonice
+Zebrak
+Mirosov
+Zlutice
+Horni Jiretin
+Pysely
+Luby
+Kopidlno
+Budyne nad Ohri
+Tynec nad Labem
+Novy Knin
+Jistebnice
+Borohradek
+Horni Jeleni
+Prosec
+Hroznetin
+Zasmuky
+Hranice
+Rokytnice v Orlickych horach
+Mikulasovice
+Svoboda nad Upou
+Hrob
+Velky Senov
+Horni Plana
+Kourim
+Stity
+Smecno
+Lucany nad Nisou
+Zandov
+Horni Cerekev
+Trebenice
+Nemcice nad Hanou
+Plesna
+Skalna
+Bochov
+Hostomice
+Liban
+Vroutek
+Sec
+Radnice
+Lomnice nad Luznici
+Hostka
+Cernovice
+Hrotovice
+Ronov nad Doubravou
+Vlachovo Brezi
+Stare Mesto
+Bela nad Radbuzou
+Nasavrky
+Vseruby
+Kladruby
+Bavorov
+Duba
+Zelezna Ruda
+Svihov
+Jablonec nad Jizerou
+Olesnice
+Dolni Poustevna
+Jesenice
+Teplice nad Metuji
+Mirovice
+Rozdalovice
+Olovi
+Brezova nad Svitavou
+Planice
+Bystre
+Primda
+Myto
+Kozlany
+Pobezovice
+Lazne Kynzvart
+Trhovy Stepanov
+Strmilov
+Kasperske Hory
+Husinec
+Mseno
+Harrachov
+Svratka
+Kasejovice
+Strazov
+Rovensko pod Troskami
+Vysoke nad Jizerou
+Zeleznice
+Habry
+Chribska
+Brandys nad Orlici
+Sedlice
+Mirotice
+Potstat
+Hostoun
+Nalzovske Hory
+Pilnikov
+Cernosin
+Osecna
+Vidnava
+Usov
+Zulova
+Vernerice
+Manetin
+Jevisovice
+Mecin
+Spindleruv Mlyn
+Krasna Hora nad Vltavou
+Libechov
+Cervena Recice
+Blsany
+Belcice
+Miletin
+Becov nad Teplou
+Hartmanice
+Bezdruzice
+Abertamy
+Straz nad Nezarkou
+Vysoke Veseli
+Milicin
+Destna
+Pec pod Snezkou
+Janske Lazne
+Krasno
+Lipnice nad Sazavou
+Starkov
+Chyse
+Mastov
+Ledvice
+Rabi
+Hora Svate Kateriny
+Utery
+Andelska Hora
+Rozmberk nad Vltavou
+Krasne Udoli
+Horni Blatna
+Bozi Dar
+Vysluni
+Janov
+Rejstejn
+Loucna pod Klinovcem
+Prebuz
+Ruprechtice
+
